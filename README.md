@@ -6,3 +6,4 @@ npm start
 ```
 Deployment:
 https://amazing-kitsune-262a16.netlify.app/
+https://suyashsahu00.github.io/passenger-counter/
